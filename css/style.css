@@ -5,6 +5,7 @@ body {
   grid-template-rows: 1fr 1fr;
   height: 100vh;
 }
+
 .first-container {
   position: relative;
   background: url("https://zimiorganics.com/blog/images/3.jpg?fbclid=IwAR2aMZ3YW0Ur6Ee6Tup97_PT-sPAfdav--Dlw4uKmCQLnizG2_8kdH8MJZM");
@@ -205,6 +206,21 @@ footer {
   text-align: center;
   font-size: 3em;
 }
+.about {
+  margin-top: 50px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 2em;
+}
+
+.about1 p{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 2em;
+}
+
 
 @media screen and (max-width: 1200px)
 {
