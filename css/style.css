@@ -25,20 +25,20 @@ body {
   position: absolute;
   background: rgba(0, 0, 0, 0.5);
 }
-p{
+p {
   text-align: center;
 }
 
 .sub_button {
-    border: none;
-    background: red;
-    padding: 10px 20px;
-    border-radius: 10px;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    transition: .4s;
-    text-decoration: none;
+  border: none;
+  background: red;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.4s;
+  text-decoration: none;
 }
 main {
   position: relative;
@@ -79,7 +79,7 @@ h2 {
   padding: 2px;
   text-decoration: underline;
 }
-h3{
+h3 {
   text-align: center;
   background: palegreen;
 }
@@ -126,14 +126,14 @@ h3{
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
 }
-.col img{
+.col img {
   width: 100%;
   object-fit: cover;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
 }
-section article ol{
-  padding:10px;
+section article ol {
+  padding: 10px;
 }
 
 footer {
